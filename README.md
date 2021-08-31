@@ -20,6 +20,8 @@ cd EF-Net
 3. Train/Test
     * Train
     * Test
+# Result
+链接:https://pan.baidu.com/s/1Okg8PdFLjoc-sRoEJyiRuw  密码:6j9w
 
 # Citation
 
